@@ -1,0 +1,6 @@
+// Sample C program to be used in Jenkins
+
+int main()
+{
+printf("welcome to C for your Jenkins practice");
+}
